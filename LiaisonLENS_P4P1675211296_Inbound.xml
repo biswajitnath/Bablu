@@ -1,0 +1,1217 @@
+<ZDLVRY03>
+            <IDOC BEGIN='1'>
+                <EDI_DC40 SEGMENT='1'>
+                    <TABNAM>EDI_DC40</TABNAM>
+                    <MANDT>110</MANDT>
+                    <DOCNUM>0000000252259151</DOCNUM>
+                    <DOCREL>756</DOCREL>
+                    <STATUS>30</STATUS>
+                    <DIRECT>1</DIRECT>
+                    <OUTMOD>2</OUTMOD>
+                    <EXPRSS />
+                    <TEST />
+                    <IDOCTYP>DELVRY03</IDOCTYP>
+                    <CIMTYP>ZDLVRY03</CIMTYP>
+                    <MESTYP>ZDESADV_VAN</MESTYP>
+                    <MESCOD>VAN</MESCOD>
+                    <MESFCT />
+                    <STD />
+                    <STDVRS />
+                    <STDMES />
+                    <SNDPOR>SAPPS4</SNDPOR>
+                    <SNDPRT>LS</SNDPRT>
+                    <SNDPFC />
+                    <SNDPRN>PS4CLNT110</SNDPRN>
+                    <SNDSAD />
+                    <SNDLAD />
+                    <RCVPOR>LIAISON</RCVPOR>
+                    <RCVPRT>LS</RCVPRT>
+                    <RCVPFC />
+                    <RCVPRN>LTOTC</RCVPRN>
+                    <RCVSAD />
+                    <RCVLAD />
+                    <CREDAT>20240506</CREDAT>
+                    <CRETIM>235825</CRETIM>
+                    <REFINT />
+                    <REFGRP />
+                    <REFMES />
+                    <ARCKEY />
+                    <SERIAL>20240506235822</SERIAL>
+                </EDI_DC40>
+                <E1EDL20 SEGMENT='1'>
+                    <VBELN>0089484025</VBELN>
+                    <VSTEL>7503</VSTEL>
+                    <VKORG>3301</VKORG>
+                    <ABLAD>#</ABLAD>
+                    <INCO1>CPT</INCO1>
+                    <INCO2>EMMERICH,DE</INCO2>
+                    <ROUTE>205403</ROUTE>
+                    <VSBED>M</VSBED>
+                    <BTGEW>1015.000</BTGEW>
+                    <NTGEW>1000.000</NTGEW>
+                    <GEWEI>KGM</GEWEI>
+                    <VOLUM>0.000</VOLUM>
+                    <ANZPK>00001</ANZPK>
+                    <BOLNR>2403158473</BOLNR>
+                    <LIFEX>ZDIR</LIFEX>
+                    <PODAT>20240507</PODAT>
+                    <POTIM>055825</POTIM>
+                    <INCO2_L>EMMERICH,DE</INCO2_L>
+                    <ZE1EDL20 SEGMENT='1'>
+                        <SIGNI>essers 6435</SIGNI>
+                        <VSART>M</VSART>
+                    </ZE1EDL20>
+                    <E1EDL22 SEGMENT='1'>
+                        <VKORG_BEZ>MM Germany 5122</VKORG_BEZ>
+                        <INCO1_BEZ>Frachtfrei</INCO1_BEZ>
+                        <ROUTE_BEZ>LTL route 3-2 TT</ROUTE_BEZ>
+                        <VSBED_BEZ>LKW</VSBED_BEZ>
+                    </E1EDL22>
+                    <E1EDL21 SEGMENT='1'>
+                        <LFART>LF</LFART>
+                        <EXPKZ>X</EXPKZ>
+                        <LPRIO>02</LPRIO>
+                        <KDGRP>02</KDGRP>
+                        <TRAGR>0001</TRAGR>
+                        <E1EDL23 SEGMENT='1'>
+                            <LFART_BEZ>Auslieferung</LFART_BEZ>
+                            <LPRIO_BEZ>Normale Position</LPRIO_BEZ>
+                            <KDGRP_BEZ>Handel</KDGRP_BEZ>
+                            <TRAGR_BEZ>Verpackte Ware</TRAGR_BEZ>
+                        </E1EDL23>
+                    </E1EDL21>
+                    <E1EDL18 SEGMENT='1'>
+                        <QUALF>ORI</QUALF>
+                    </E1EDL18>
+                    <E1ADRM1 SEGMENT='1'>
+                        <PARTNER_Q>SP</PARTNER_Q>
+                        <PARTNER_ID>0005105043</PARTNER_ID>
+                        <NAME1>HENRI ESSERS EN ZONEN</NAME1>
+                        <E1ADRE1 SEGMENT='1'>
+                            <EXTEND_Q>SCA</EXTEND_Q>
+                            <EXTEND_D>AA66</EXTEND_D>
+                        </E1ADRE1>
+                    </E1ADRM1>
+                    <E1ADRM1 SEGMENT='1'>
+                        <PARTNER_Q>AG</PARTNER_Q>
+                        <PARTNER_ID>324367473</PARTNER_ID>
+                        <LANGUAGE>EN</LANGUAGE>
+                        <NAME1>BIESTERFELD PLASTIC GMBH</NAME1>
+                        <STREET1>FERDINANDSTRASSE 41</STREET1>
+                        <POSTL_COD1>20095</POSTL_COD1>
+                        <CITY1>HAMBURG</CITY1>
+                        <TELEPHONE1>49 40 32008</TELEPHONE1>
+                        <TELEFAX>49 40 32008 442</TELEFAX>
+                        <COUNTRY1>DE</COUNTRY1>
+                        <REGION>02</REGION>
+                        <ZE1ADRE1 SEGMENT='1'>
+                            <EXTEND_Q>TP</EXTEND_Q>
+                            <EXTEND_D>324367473</EXTEND_D>
+                        </ZE1ADRE1>
+                    </E1ADRM1>
+                    <E1ADRM1 SEGMENT='1'>
+                        <PARTNER_Q>WE</PARTNER_Q>
+                        <PARTNER_ID>3320</PARTNER_ID>
+                        <LANGUAGE>DE</LANGUAGE>
+                        <NAME1>CONVENT SPEDITION GMBH</NAME1>
+                        <STREET1>RAVENSACKERWEG 1</STREET1>
+                        <POSTL_COD1>46446</POSTL_COD1>
+                        <CITY1>EMMERICH</CITY1>
+                        <COUNTRY1>DE</COUNTRY1>
+                        <REGION>999</REGION>
+                    </E1ADRM1>
+                    <E1ADRM1 SEGMENT='1'>
+                        <PARTNER_Q>XA</PARTNER_Q>
+                        <PARTNER_ID>0000115216</PARTNER_ID>
+                        <LANGUAGE>EN</LANGUAGE>
+                        <NAME1>KIM LUKE</NAME1>
+                        <STREET1>ANTOON SPINOYSTRAAT 5</STREET1>
+                        <POSTL_COD1>2800</POSTL_COD1>
+                        <CITY1>MECHELEN</CITY1>
+                        <TELEPHONE1>015796322</TELEPHONE1>
+                        <E_MAIL>kim.luke_contractor@celanese.com</E_MAIL>
+                        <COUNTRY1>BE</COUNTRY1>
+                        <REGION>999</REGION>
+                        <E1ADRE1 SEGMENT='1'>
+                            <EXTEND_Q>301</EXTEND_Q>
+                            <EXTEND_D>*</EXTEND_D>
+                        </E1ADRE1>
+                    </E1ADRM1>
+                    <E1ADRM1 SEGMENT='1'>
+                        <PARTNER_Q>OSP</PARTNER_Q>
+                        <PARTNER_ID>7503</PARTNER_ID>
+                        <LANGUAGE>EN</LANGUAGE>
+                        <NAME1>H. ESSERS LOGISTICS COMPANY</NAME1>
+                        <NAME2>HAL 7</NAME2>
+                        <STREET1>TRANSPORTLAAN Z/N, ZONE 1</STREET1>
+                        <POSTL_COD1>3600</POSTL_COD1>
+                        <CITY1>GENK</CITY1>
+                        <COUNTRY1>BE</COUNTRY1>
+                        <REGION>01</REGION>
+                    </E1ADRM1>
+                    <E1ADRM1 SEGMENT='1'>
+                        <PARTNER_Q>OSO</PARTNER_Q>
+                        <PARTNER_ID>947592879</PARTNER_ID>
+                        <LANGUAGE>DE</LANGUAGE>
+                        <NAME1>Celanese Performance Solutions</NAME1>
+                        <NAME2>Germany GmbH</NAME2>
+                        <STREET1>Am Unisys-Park 1</STREET1>
+                        <POSTL_COD1>65843</POSTL_COD1>
+                        <CITY1>Sulzbach (Taunus)</CITY1>
+                        <COUNTRY1>DE</COUNTRY1>
+                    </E1ADRM1>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>499</QUALF>
+                        <VSTZW_BEZ>CZ: acceptance by ca</VSTZW_BEZ>
+                        <NTANF>00000000</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>00000000</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                        <EVENT>ZCZCARRACC</EVENT>
+                        <EVENT_ALI>ZCZCARRACCEPT</EVENT_ALI>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>499</QUALF>
+                        <VSTZW_BEZ>CZ: rejected by carr</VSTZW_BEZ>
+                        <NTANF>00000000</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>00000000</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                        <EVENT>ZCZCARRREJ</EVENT>
+                        <EVENT_ALI>ZCZCARRREJECT</EVENT_ALI>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>499</QUALF>
+                        <VSTZW_BEZ>CZ: Arrival at custo</VSTZW_BEZ>
+                        <NTANF>20240308</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>00000000</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                        <EVENT>ZCZCUSTARR</EVENT>
+                        <EVENT_ALI>ZCZCUSTOMERARRIVAL</EVENT_ALI>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>499</QUALF>
+                        <VSTZW_BEZ>CZ: Loading</VSTZW_BEZ>
+                        <NTANF>00000000</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>00000000</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                        <EVENT>ZCZLOADING</EVENT>
+                        <EVENT_ALI>ZCZLOADING</EVENT_ALI>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>499</QUALF>
+                        <VSTZW_BEZ>CZ: Prep Work at ext</VSTZW_BEZ>
+                        <NTANF>00000000</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>00000000</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>20240301</ISDD>
+                        <ISDZ>000600</ISDZ>
+                        <IEDD>20240301</IEDD>
+                        <IEDZ>000600</IEDZ>
+                        <EVENT>ZCZPREP</EVENT>
+                        <EVENT_ALI>ZCZPREPSTARTED</EVENT_ALI>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>499</QUALF>
+                        <VSTZW_BEZ>CZ: shipment start</VSTZW_BEZ>
+                        <NTANF>20240305</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240305</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                        <EVENT>ZCZSHIPSTA</EVENT>
+                        <EVENT_ALI>ZCZSHIPSTART</EVENT_ALI>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>006</QUALF>
+                        <NTANF>20240305</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240305</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <TZONE_BEG>CET</TZONE_BEG>
+                        <ISDD>20240306</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>20240306</IEDD>
+                        <IEDZ>000000</IEDZ>
+                        <TZONE_END>CET</TZONE_END>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>003</QUALF>
+                        <NTANF>20240305</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240305</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <TZONE_BEG>CET</TZONE_BEG>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>001</QUALF>
+                        <NTANF>20240301</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240301</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <TZONE_BEG>CET</TZONE_BEG>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>007</QUALF>
+                        <NTANF>20240308</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240308</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <TZONE_BEG>CET</TZONE_BEG>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>010</QUALF>
+                        <NTANF>20240301</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240301</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <TZONE_BEG>CET</TZONE_BEG>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                    </E1EDT13>
+                    <E1EDT13 SEGMENT='1'>
+                        <QUALF>015</QUALF>
+                        <NTANF>20240229</NTANF>
+                        <NTANZ>000000</NTANZ>
+                        <NTEND>20240229</NTEND>
+                        <NTENZ>000000</NTENZ>
+                        <ISDD>00000000</ISDD>
+                        <ISDZ>000000</ISDZ>
+                        <IEDD>00000000</IEDD>
+                        <IEDZ>000000</IEDZ>
+                    </E1EDT13>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>0001</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>Legacy SO No # 2501605598</TDLINE>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>Z005</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>Shipping Instructions</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>OPENING HOURS:EMMERICH: Mo-Fri 08:00-14:00, no more than 7 trucks per</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>day, ALL DRIVERS SHOULD WEAR YELLOW SAFETY VEST AND SAFETY SHOES!</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>24/11/23 UNTIL 28/11/23 DELIVERY NOT POSSIBLE, CLOSED DUE TO INVENTORY</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>Z018</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>OPENING HOURS:EMMERICH: Mo-Fri 08:00-14:00, no more than 7 trucks per</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDLINE>day, ALL DRIVERS SHOULD WEAR YELLOW SAFETY VEST AND SAFETY SHOES!</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>Z019</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>Gelieve de onvolledige palletten van hetzelfde materiaal samen te</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>tasten.</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>Z023</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>Letter of Credit Corrections</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>Type any corrections in the appropriate space</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>CELANESE_ADDRESS</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>PAYMENT_TERMS_DESCRIPTION</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>FREIGHT_TERM</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>INCOTERMS_DESCRIPTION</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>INCOTERMS_LOCATION</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>STORAGE_UNIT_COUNT</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>INVOICE_TYPE_DESCRIPTION</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>GROSS_WEIGHT</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>NET_WEIGHT</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>INVOICE_VALUE</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>VESSEL_NAME</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>PACKING LIST OVERRIDE FIELDS</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>SHIPMENT_DATE</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>SHIPPING_POINT_DESCRIPTION</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>PRODUCT_DESCRIPTION</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCUMENT_NAME</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>VOLUME</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>INLAND_CARRIER</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>SOLD-TO NAME AND ADDRESS</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>SHIP-TO NAME AND ADDRESS</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>ZFFT</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>BOND-WHSE-IND: N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>EXP-FRTTRM:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>INL-FRTTRM:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DRWBK-IND: N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>STAT-ONLY-IND: N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DBL-FWDR-IND: N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-ONLY-IND: N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>TIB-IND: N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>___orig/copy:_inv__bol__pl_drf__coa_coo_bkm_sa</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-SOLD-TO: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-BANK: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-SUBSID: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-BROK: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-DISTR: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Consignee: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Notify1: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Notify2: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Notify3: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Notify4: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Other1: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Other2: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-Other3: 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DOCS-ICR (ZX): 0;0;0;0;0;0;0;0;0;0;0;0;N;N</TDLINE>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>ZNFB</TDID>
+                        <TDSPRAS>P</TDSPRAS>
+                        <LANGUA_ISO>PT</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>QVOL:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>ESP:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>EMBARQ:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>UFEMBA:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>DESPAC:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>TransportPlaca:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>TransportState:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>TransportCarrier:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>ReboquePlaca:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>ReboqueState:</TDLINE>
+                        </E1TXTP8>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDFORMAT>*</TDFORMAT>
+                            <TDLINE>ReboqueCarrier:</TDLINE>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1TXTH8 SEGMENT='1'>
+                        <TDOBJECT>VBBK</TDOBJECT>
+                        <TDOBNAME>0089484025</TDOBNAME>
+                        <TDID>ZTMS</TDID>
+                        <TDSPRAS>E</TDSPRAS>
+                        <LANGUA_ISO>EN</LANGUA_ISO>
+                        <E1TXTP8 SEGMENT='1'>
+                            <TDLINE>P1</TDLINE>
+                        </E1TXTP8>
+                    </E1TXTH8>
+                    <E1EDL33 SEGMENT='1'>
+                        <ALAND>BE</ALAND>
+                        <EXPVZ>3</EXPVZ>
+                    </E1EDL33>
+                    <E1EDL28 SEGMENT='1'>
+                        <ROUTE>205403</ROUTE>
+                        <VSART>M</VSART>
+                        <DISTZ>0.000</DISTZ>
+                        <E1EDL29 SEGMENT='1'>
+                            <ROUTE_BEZ>LTL route 3-2 TT</ROUTE_BEZ>
+                            <VSART_BEZ>EHS-DG-Strasse</VSART_BEZ>
+                        </E1EDL29>
+                    </E1EDL28>
+                    <E1EDL24 SEGMENT='1'>
+                        <POSNR>000020</POSNR>
+                        <MATNR>000000000027048679</MATNR>
+                        <MATWA>000000000027048679</MATWA>
+                        <ARKTX>MINIG38C1 BK434 25 KG BAG (US)</ARKTX>
+                        <MATKL>MRMAPM008</MATKL>
+                        <WERKS>7503</WERKS>
+                        <LGORT>9000</LGORT>
+                        <KDMAT>5870400000</KDMAT>
+                        <LFIMG>4.000</LFIMG>
+                        <VRKME>KGM</VRKME>
+                        <LGMNG>0.000</LGMNG>
+                        <MEINS>KGM</MEINS>
+                        <NTGEW>0.000</NTGEW>
+                        <BRGEW>0.000</BRGEW>
+                        <GEWEI>KGM</GEWEI>
+                        <VOLUM>0.000</VOLUM>
+						<HIPOS>000020</HIPOS>
+                        <LADGR>0001</LADGR>
+                        <TRAGR>0001</TRAGR>
+                        <VKGRP>000</VKGRP>
+                        <VTWEG>01</VTWEG>
+                        <SPART>76</SPART>
+                        <GRKOR>000</GRKOR>
+                        <MFRGR>TICONA</MFRGR>
+                        <KDMAT35>5870400000</KDMAT35>
+                        <POSEX>000000</POSEX>
+                        <VFDAT>00000000</VFDAT>
+                        <EXPIRY_DATE_EXT>0</EXPIRY_DATE_EXT>
+                        <VGBEL>0002896582</VGBEL>
+                        <VGPOS>000020</VGPOS>
+                        <ORMNG>1000.000</ORMNG>
+                        <EXPIRY_DATE_EXT_B>0</EXPIRY_DATE_EXT_B>
+                        <E1EDL25 SEGMENT='1'>
+                            <LGORT_BEZ>Finished Goods</LGORT_BEZ>
+                            <LADGR_BEZ>Kran</LADGR_BEZ>
+                            <TRAGR_BEZ>Verpackte Ware</TRAGR_BEZ>
+                            <VTWEG_BEZ>Vertriebsweg 01</VTWEG_BEZ>
+                            <SPART_BEZ>Nylon</SPART_BEZ>
+                            <MFRGR_BEZ>Ticona-Non-Hazardous</MFRGR_BEZ>
+                        </E1EDL25>
+                        <E1EDL26 SEGMENT='1'>
+                            <PSTYV>TAN</PSTYV>
+                            <MATKL>MRMAPM008</MATKL>
+                            <PRODH>03---76----76A</PRODH>
+                            <UMVKZ>1</UMVKZ>
+                            <UMVKN>1</UMVKN>
+                            <KZTLF>A</KZTLF>
+                            <UEBTO>10.0</UEBTO>
+                            <UNTTO>10.0</UNTTO>
+                            <XCHBW>1</XCHBW>
+                            <MAGRV>BAGS</MAGRV>
+                            <KZUMW>X</KZUMW>
+                            <KVGR4>CHL</KVGR4>
+                            <MATNR_LONG>000000000027048679</MATNR_LONG>
+                            <MATWA_LONG>000000000027048679</MATWA_LONG>
+                            <E1EDL27 SEGMENT='1'>
+                                <PSTYV_BEZ>Normalposition</PSTYV_BEZ>
+                                <MATKL_BEZ>Service,OtherContrac</MATKL_BEZ>
+                                <WERKS_BEZ>H. Essers Genk</WERKS_BEZ>
+                            </E1EDL27>
+                        </E1EDL26>
+                        <E1EDL35 SEGMENT='1'>
+                            <STAWN>39081000</STAWN>
+                            <HERKL>US</HERKL>
+                        </E1EDL35>
+                        <E1EDL43 SEGMENT='1'>
+                            <QUALF>C</QUALF>
+                            <BELNR>0002896582</BELNR>
+                            <POSNR>000020</POSNR>
+                            <DATUM>20231215</DATUM>
+                        </E1EDL43>
+                        <E1EDL41 SEGMENT='1'>
+                            <QUALI>001</QUALI>
+                            <BSTNR>4500917479</BSTNR>
+                            <BSTDT>20231211</BSTDT>
+                            <BSARK>ZDIR</BSARK>
+                            <IHREZ>4500917479_9</IHREZ>
+                            <POSEX>00020</POSEX>
+                            <E1EDL42 SEGMENT='1'>
+                                <BSARK_BEZ>Elemica</BSARK_BEZ>
+                            </E1EDL42>
+                        </E1EDL41>
+                        <E1EDL41 SEGMENT='1'>
+                            <QUALI>002</QUALI>
+                            <BSTNR>4500917479_9044275</BSTNR>
+                            <BSTDT>00000000</BSTDT>
+                        </E1EDL41>
+                        <E1TXTH9 SEGMENT='1'>
+                            <TDOBJECT>VBBP</TDOBJECT>
+                            <TDOBNAME>0089484025000020</TDOBNAME>
+                            <TDID>0001</TDID>
+                            <TDSPRAS>E</TDSPRAS>
+                            <LANGUA_ISO>EN</LANGUA_ISO>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>*</TDFORMAT>
+                                <TDLINE>MINLON® IG38C1 BK434 25 KG BAG</TDLINE>
+                            </E1TXTP9>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>/</TDFORMAT>
+                                <TDLINE>ENGINEERING THERMOPLASTIC</TDLINE>
+                            </E1TXTP9>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>*</TDFORMAT>
+                            </E1TXTP9>
+                        </E1TXTH9>
+                        <E1TXTH9 SEGMENT='1'>
+                            <TDOBJECT>VBBP</TDOBJECT>
+                            <TDOBNAME>0089484025000020</TDOBNAME>
+                            <TDID>Z030</TDID>
+                            <TDSPRAS>E</TDSPRAS>
+                            <LANGUA_ISO>EN</LANGUA_ISO>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>*</TDFORMAT>
+                                <TDLINE>Stockingrules: do not stock</TDLINE>
+                            </E1TXTP9>
+                        </E1TXTH9>
+                    </E1EDL24>
+					<E1EDL24 SEGMENT='1'>
+                        <POSNR>000020</POSNR>
+                        <MATNR>000000000027048679</MATNR>
+                        <MATWA>000000000027048679</MATWA>
+                        <ARKTX>MINIG38C1 BK434 25 KG BAG (US)</ARKTX>
+                        <MATKL>MRMAPM008</MATKL>
+                        <WERKS>7503</WERKS>
+                        <LGORT>9000</LGORT>
+                        <KDMAT>5870400000</KDMAT>
+                        <LFIMG>4.000</LFIMG>
+                        <VRKME>KGM</VRKME>
+                        <LGMNG>0.000</LGMNG>
+                        <MEINS>KGM</MEINS>
+                        <NTGEW>0.000</NTGEW>
+                        <BRGEW>0.000</BRGEW>
+                        <GEWEI>KGM</GEWEI>
+                        <VOLUM>0.000</VOLUM>
+						<HIPOS>000020</HIPOS>
+                        <LADGR>0001</LADGR>
+                        <TRAGR>0001</TRAGR>
+                        <VKGRP>000</VKGRP>
+                        <VTWEG>01</VTWEG>
+                        <SPART>76</SPART>
+                        <GRKOR>000</GRKOR>
+                        <MFRGR>TICONA</MFRGR>
+                        <KDMAT35>5870400000</KDMAT35>
+                        <POSEX>000000</POSEX>
+                        <VFDAT>00000000</VFDAT>
+                        <EXPIRY_DATE_EXT>0</EXPIRY_DATE_EXT>
+                        <VGBEL>0002896582</VGBEL>
+                        <VGPOS>000020</VGPOS>
+                        <ORMNG>1000.000</ORMNG>
+                        <EXPIRY_DATE_EXT_B>0</EXPIRY_DATE_EXT_B>
+                        <E1EDL25 SEGMENT='1'>
+                            <LGORT_BEZ>Finished Goods</LGORT_BEZ>
+                            <LADGR_BEZ>Kran</LADGR_BEZ>
+                            <TRAGR_BEZ>Verpackte Ware</TRAGR_BEZ>
+                            <VTWEG_BEZ>Vertriebsweg 01</VTWEG_BEZ>
+                            <SPART_BEZ>Nylon</SPART_BEZ>
+                            <MFRGR_BEZ>Ticona-Non-Hazardous</MFRGR_BEZ>
+                        </E1EDL25>
+                        <E1EDL26 SEGMENT='1'>
+                            <PSTYV>TAN</PSTYV>
+                            <MATKL>MRMAPM008</MATKL>
+                            <PRODH>03---76----76A</PRODH>
+                            <UMVKZ>1</UMVKZ>
+                            <UMVKN>1</UMVKN>
+                            <KZTLF>A</KZTLF>
+                            <UEBTO>10.0</UEBTO>
+                            <UNTTO>10.0</UNTTO>
+                            <XCHBW>1</XCHBW>
+                            <MAGRV>BAGS</MAGRV>
+                            <KZUMW>X</KZUMW>
+                            <KVGR4>CHL</KVGR4>
+                            <MATNR_LONG>000000000027048679</MATNR_LONG>
+                            <MATWA_LONG>000000000027048679</MATWA_LONG>
+                            <E1EDL27 SEGMENT='1'>
+                                <PSTYV_BEZ>Normalposition</PSTYV_BEZ>
+                                <MATKL_BEZ>Service,OtherContrac</MATKL_BEZ>
+                                <WERKS_BEZ>H. Essers Genk</WERKS_BEZ>
+                            </E1EDL27>
+                        </E1EDL26>
+                        <E1EDL35 SEGMENT='1'>
+                            <STAWN>39081000</STAWN>
+                            <HERKL>US</HERKL>
+                        </E1EDL35>
+                        <E1EDL43 SEGMENT='1'>
+                            <QUALF>C</QUALF>
+                            <BELNR>0002896582</BELNR>
+                            <POSNR>000020</POSNR>
+                            <DATUM>20231215</DATUM>
+                        </E1EDL43>
+                        <E1EDL41 SEGMENT='1'>
+                            <QUALI>001</QUALI>
+                            <BSTNR>4500917479</BSTNR>
+                            <BSTDT>20231211</BSTDT>
+                            <BSARK>ZDIR</BSARK>
+                            <IHREZ>4500917479_9</IHREZ>
+                            <POSEX>00020</POSEX>
+                            <E1EDL42 SEGMENT='1'>
+                                <BSARK_BEZ>Elemica</BSARK_BEZ>
+                            </E1EDL42>
+                        </E1EDL41>
+                        <E1EDL41 SEGMENT='1'>
+                            <QUALI>002</QUALI>
+                            <BSTNR>4500917479_9044275</BSTNR>
+                            <BSTDT>00000000</BSTDT>
+                        </E1EDL41>
+                        <E1TXTH9 SEGMENT='1'>
+                            <TDOBJECT>VBBP</TDOBJECT>
+                            <TDOBNAME>0089484025000020</TDOBNAME>
+                            <TDID>0001</TDID>
+                            <TDSPRAS>E</TDSPRAS>
+                            <LANGUA_ISO>EN</LANGUA_ISO>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>*</TDFORMAT>
+                                <TDLINE>MINLON® IG38C1 BK434 25 KG BAG</TDLINE>
+                            </E1TXTP9>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>/</TDFORMAT>
+                                <TDLINE>ENGINEERING THERMOPLASTIC</TDLINE>
+                            </E1TXTP9>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>*</TDFORMAT>
+                            </E1TXTP9>
+                        </E1TXTH9>
+                        <E1TXTH9 SEGMENT='1'>
+                            <TDOBJECT>VBBP</TDOBJECT>
+                            <TDOBNAME>0089484025000020</TDOBNAME>
+                            <TDID>Z030</TDID>
+                            <TDSPRAS>E</TDSPRAS>
+                            <LANGUA_ISO>EN</LANGUA_ISO>
+                            <E1TXTP9 SEGMENT='1'>
+                                <TDFORMAT>*</TDFORMAT>
+                                <TDLINE>Stockingrules: do not stock</TDLINE>
+                            </E1TXTP9>
+                        </E1TXTH9>
+                    </E1EDL24>
+                    <E1EDL24 SEGMENT='1'>
+                        <POSNR>900001</POSNR>
+                        <MATNR>000000000027048679</MATNR>
+                        <MATWA>000000000027048679</MATWA>
+                        <ARKTX>MINIG38C1 BK434 25 KG BAG (US)</ARKTX>
+                        <MATKL>MRMAPM008</MATKL>
+                        <WERKS>7503</WERKS>
+                        <LGORT>9000</LGORT>
+                        <CHARG>NT8XLV4101</CHARG>
+                        <KDMAT>5870400000</KDMAT>
+                        <LFIMG>1500.000</LFIMG>
+                        <VRKME>KGM</VRKME>
+                        <LGMNG>1000.000</LGMNG>
+                        <MEINS>KGM</MEINS>
+                        <NTGEW>1000.000</NTGEW>
+                        <BRGEW>1015.000</BRGEW>
+                        <GEWEI>KGM</GEWEI>
+                        <VOLUM>0.000</VOLUM>
+                        <HIPOS>000010</HIPOS>
+                        <HIEVW>1</HIEVW>
+                        <LADGR>0001</LADGR>
+                        <TRAGR>0001</TRAGR>
+                        <VKGRP>000</VKGRP>
+                        <VTWEG>01</VTWEG>
+                        <SPART>76</SPART>
+                        <GRKOR>000</GRKOR>
+                        <MFRGR>TICONA</MFRGR>
+                        <KDMAT35>5870400000</KDMAT35>
+                        <POSEX>000000</POSEX>
+                        <VFDAT>00000000</VFDAT>
+                        <EXPIRY_DATE_EXT>0</EXPIRY_DATE_EXT>
+                        <VGBEL>0002896582</VGBEL>
+                        <VGPOS>000020</VGPOS>
+                        <ORMNG>1000.000</ORMNG>
+                        <EXPIRY_DATE_EXT_B>0</EXPIRY_DATE_EXT_B>
+                        <E1EDL25 SEGMENT='1'>
+                            <LGORT_BEZ>Finished Goods</LGORT_BEZ>
+                            <LADGR_BEZ>Kran</LADGR_BEZ>
+                            <TRAGR_BEZ>Verpackte Ware</TRAGR_BEZ>
+                            <VTWEG_BEZ>Vertriebsweg 01</VTWEG_BEZ>
+                            <SPART_BEZ>Nylon</SPART_BEZ>
+                            <MFRGR_BEZ>Ticona-Non-Hazardous</MFRGR_BEZ>
+                        </E1EDL25>
+                        <E1EDL26 SEGMENT='1'>
+                            <PSTYV>TAN</PSTYV>
+                            <MATKL>MRMAPM008</MATKL>
+                            <PRODH>03---76----76A</PRODH>
+                            <UMVKZ>1</UMVKZ>
+                            <UMVKN>1</UMVKN>
+                            <KZTLF>A</KZTLF>
+                            <UEBTO>10.0</UEBTO>
+                            <UNTTO>10.0</UNTTO>
+                            <XCHBW>1</XCHBW>
+                            <MAGRV>BAGS</MAGRV>
+                            <KZUMW>X</KZUMW>
+                            <KVGR4>CHL</KVGR4>
+                            <MATNR_LONG>000000000027048679</MATNR_LONG>
+                            <MATWA_LONG>000000000027048679</MATWA_LONG>
+                            <E1EDL27 SEGMENT='1'>
+                                <PSTYV_BEZ>Normalposition</PSTYV_BEZ>
+                                <MATKL_BEZ>Service,OtherContrac</MATKL_BEZ>
+                                <WERKS_BEZ>H. Essers Genk</WERKS_BEZ>
+                            </E1EDL27>
+                        </E1EDL26>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>9999999414</ATINN>
+                            <ATNAM>LOBM_UDCODE</ATNAM>
+                            <ATBEZ>Verwendungsentscheid</ATBEZ>
+                            <ATWRT>UDCODES  A0</ATWRT>
+                            <ATWTB>UDCODES  A0</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>UDCODES  A0</ATWRT_LONG>
+                            <ATWTB_LONG>UDCODES  A0</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>9999999400</ATINN>
+                            <ATNAM>LOBM_VFDAT</ATNAM>
+                            <ATBEZ>Verfallsdatum, Mindesthaltbark</ATBEZ>
+                            <ATWRT>00.00.0000</ATWRT>
+                            <ATWTB>00.00.0000</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>00.00.0000</ATWRT_LONG>
+                            <ATWTB_LONG>00.00.0000</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>9999999422</ATINN>
+                            <ATNAM>LOBM_HSDAT</ATNAM>
+                            <ATBEZ>Datum, an dem die Charge herge</ATBEZ>
+                            <ATWRT>03.01.2024</ATWRT>
+                            <ATWTB>03.01.2024</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>03.01.2024</ATWRT_LONG>
+                            <ATWTB_LONG>03.01.2024</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>0000071974</ATINN>
+                            <ATNAM>BATCH_GOODS_RECEIPT_DATE_LAST</ATNAM>
+                            <ATBEZ>BATCH_GOODS_RECEIPT_DATE_LAST</ATBEZ>
+                            <ATWRT>25.01.2024</ATWRT>
+                            <ATWTB>25.01.2024</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>25.01.2024</ATWRT_LONG>
+                            <ATWTB_LONG>25.01.2024</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>9999999406</ATINN>
+                            <ATNAM>LOBM_LVORM</ATNAM>
+                            <ATBEZ>Löschvormerkung für Chargen</ATBEZ>
+                            <ATWTB>nicht gesetzt</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWTB_LONG>nicht gesetzt</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>9999999405</ATINN>
+                            <ATNAM>LOBM_ZUSTD</ATNAM>
+                            <ATBEZ>Zustand der Charge</ATBEZ>
+                            <ATWTB>frei</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWTB_LONG>frei</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>0000007232</ATINN>
+                            <ATNAM>C_50002236</ATNAM>
+                            <ATBEZ>Kupfer</ATBEZ>
+                            <ATWRT>77,00 ppm(m)</ATWRT>
+                            <ATWTB>77,00 ppm(m)</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>77,00 ppm(m)</ATWRT_LONG>
+                            <ATWTB_LONG>77,00 ppm(m)</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>0000007277</ATINN>
+                            <ATNAM>C_50002278</ATNAM>
+                            <ATBEZ>Aschegehalt</ATBEZ>
+                            <ATWRT>38,80 %(m)</ATWRT>
+                            <ATWTB>38,80 %(m)</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>38,80 %(m)</ATWRT_LONG>
+                            <ATWTB_LONG>38,80 %(m)</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>0000007208</ATINN>
+                            <ATNAM>C_50002728</ATNAM>
+                            <ATBEZ>Wassergehalt</ATBEZ>
+                            <ATWRT>0,100 %(m)</ATWRT>
+                            <ATWTB>0,100 %(m)</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>0,100 %(m)</ATWRT_LONG>
+                            <ATWTB_LONG>0,100 %(m)</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>0000067040</ATINN>
+                            <ATNAM>C_50006375</ATNAM>
+                            <ATBEZ>C_50006375</ATBEZ>
+                            <ATWRT>206,2880 Pas</ATWRT>
+                            <ATWTB>206,2880 Pas</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>206,2880 Pas</ATWRT_LONG>
+                            <ATWTB_LONG>206,2880 Pas</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL15 SEGMENT='1'>
+                            <ATINN>0000072012</ATINN>
+                            <ATNAM>BATCH_PRODUCTION_DATE</ATNAM>
+                            <ATBEZ>BATCH_PRODUCTION_DATE</ATBEZ>
+                            <ATWRT>03.01.2024</ATWRT>
+                            <ATWTB>03.01.2024</ATWTB>
+                            <EWAHR>0.0000000000000000E+00</EWAHR>
+                            <ATWRT_LONG>03.01.2024</ATWRT_LONG>
+                            <ATWTB_LONG>03.01.2024</ATWTB_LONG>
+                        </E1EDL15>
+                        <E1EDL35 SEGMENT='1'>
+                            <STAWN>39081000</STAWN>
+                            <HERKL>US</HERKL>
+                        </E1EDL35>
+                        <E1EDL43 SEGMENT='1'>
+                            <QUALF>C</QUALF>
+                            <BELNR>0002896582</BELNR>
+                            <POSNR>000020</POSNR>
+                            <DATUM>20231215</DATUM>
+                        </E1EDL43>
+                        <E1EDL41 SEGMENT='1'>
+                            <QUALI>001</QUALI>
+                            <BSTNR>4500917479</BSTNR>
+                            <BSTDT>20231211</BSTDT>
+                            <BSARK>ZDIR</BSARK>
+                            <IHREZ>4500917479_9</IHREZ>
+                            <POSEX>00020</POSEX>
+                            <E1EDL42 SEGMENT='1'>
+                                <BSARK_BEZ>Elemica</BSARK_BEZ>
+                            </E1EDL42>
+                        </E1EDL41>
+                        <E1EDL41 SEGMENT='1'>
+                            <QUALI>002</QUALI>
+                            <BSTNR>4500917479_9044275</BSTNR>
+                            <BSTDT>00000000</BSTDT>
+                        </E1EDL41>
+                    </E1EDL24>
+                    <E1EDL37 SEGMENT='1'>
+                        <EXIDV>00000000000032272180</EXIDV>
+                        <TARAG>23.000</TARAG>
+                        <GWEIT>KGM</GWEIT>
+                        <BRGEW>1038.000</BRGEW>
+                        <NTGEW>1015.000</NTGEW>
+                        <MAGEW>0.000</MAGEW>
+                        <GWEIM>KGM</GWEIM>
+                        <BTVOL>2216.500</BTVOL>
+                        <NTVOL>0.000</NTVOL>
+                        <MAVOL>0.000</MAVOL>
+                        <VOLEM>CMQ</VOLEM>
+                        <TAVOL>2216.500</TAVOL>
+                        <VOLET>CMQ</VOLET>
+                        <VHILM>000000000000171895</VHILM>
+                        <LAENG>0.000</LAENG>
+                        <BREIT>0.000</BREIT>
+                        <HOEHE>0.000</HOEHE>
+                        <VHART>0001</VHART>
+                        <MAGRV>PALL</MAGRV>
+                        <LADLG>0</LADLG>
+                        <FARZT>0</FARZT>
+                        <ENTFE>0</ENTFE>
+                        <VELTP>C</VELTP>
+                        <VEBEZ>EPL-30-EP-11 HT CP7-PAL.1100 X 1300</VEBEZ>
+                        <SMGKN>S</SMGKN>
+                        <ERNAM>CPSJOBSEU</ERNAM>
+                        <EXIDA>A</EXIDA>
+                        <MOVE_STATUS>0050</MOVE_STATUS>
+                        <PACKVORSCHR>RsRjhkWO7jwiaDHYikrch0</PACKVORSCHR>
+                        <PACKVORSCHR_ST>3</PACKVORSCHR_ST>
+                        <ZUL_AUFL>0.000</ZUL_AUFL>
+                        <VHILM_LONG>000000000000171895</VHILM_LONG>
+                        <E1EDL38 SEGMENT='1'>
+                            <VHART_BEZ>Paletten</VHART_BEZ>
+                            <MAGRV_BEZ>Palette</MAGRV_BEZ>
+                            <VEBEZ>EPL-30-EP-11 HT CP7-PAL.1100 X 1300</VEBEZ>
+                        </E1EDL38>
+                        <E1EDL44 SEGMENT='1'>
+                            <VELIN>1</VELIN>
+                            <VBELN>0089484025</VBELN>
+                            <POSNR>900001</POSNR>
+                            <VEMNG>1000.000</VEMNG>
+                            <VEMEH>KGM</VEMEH>
+                            <MATNR>000000000027048679</MATNR>
+                            <CHARG>NT8XLV4101</CHARG>
+                            <WERKS>7503</WERKS>
+                            <LGORT>9000</LGORT>
+                            <CUOBJ>000000000000000000</CUOBJ>
+                            <ANZSN>0</ANZSN>
+                            <WDATU>00000000</WDATU>
+                            <MATNR_LONG>000000000027048679</MATNR_LONG>
+                        </E1EDL44>
+                    </E1EDL37>
+                </E1EDL20>
+            </IDOC>
+        </ZDLVRY03>
